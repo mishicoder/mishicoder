@@ -80,19 +80,11 @@ A point-and-click horror-adventure game in which the player must uncover the mys
 <img src="https://files.pixijs.download/branding/pixijs-logo-mark-dark.png" height="40" />
 <img src="https://kaplayjs.com/favicon.png" height="40" />
 
-#### Web & Backend
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,astro,react,flask,django,bun,nodejs,fastapi,md,tailwind&theme=dark)](https://skillicons.dev)
-
 #### Desktop
 
 [![My Skills](https://skillicons.dev/icons?i=gtk,tauri,electron,qt&theme=dark)](https://skillicons.dev)
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/JavaFX_Logo.png/250px-JavaFX_Logo.png" height="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Avalonia_logo.svg/120px-Avalonia_logo.svg.png?_=20250604021936" height="40">
-
-#### Databases
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongo,firebase&theme=dark)](https://skillicons.dev)
 
 #### Version Control
 
