@@ -47,7 +47,7 @@ A 2D video game featuring farming and automation mechanics, a project inspired b
 
 A point-and-click horror-adventure game in which the player must uncover the mysteries behind the sudden and traumatic disappearance of their sister at the residence where she worked. A small psychological horror and mystery game that I will develop together with my apprentice (padawan) and a writer friend.
 
-📌 Status: 1 week until development begins.
+📌 Status: in development
 
 > We'll be posting devlogs about the game's development :D<br>
 > Once the first playable version is available, a link to the game's official website will be posted.
